@@ -8,6 +8,8 @@ Make sure NODE.JS IS INSTALLED
 
 run these commands in the root of your project
 
+npm install -g electron
+
 npm init
 
 sudo npm install gulp gulp-sass gulp-pug gulp-run gulp-livereload gulp-autoprefixer --save-dev
