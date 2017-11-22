@@ -1,7 +1,7 @@
 
-# gulpEnv
-# https://github.com/delduked/gulpEnv.git
-Nate's personal Gulp Development environment
+# Gulp Electron
+# git push -u origin master
+Nate's personal Gulp Electron Development environment
 
 you must install these first in this order for gulp to work
 Make sure NODE.JS IS INSTALLED
